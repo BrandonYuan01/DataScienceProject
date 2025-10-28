@@ -7,6 +7,8 @@ The business process modeled is a **retail sales** scenario, where customer purc
 
 The data mart integrates data from multiple sources, **MySQL**, **MongoDB**, and a **CSV file**, into a data warehouse.
 
+The notebook used to deploy and create the data mart is in this repo, as well as the script used to create the date dimension, and the scriptused to populate the AdventureWorks database, though it had to be linked through google drive because the file is too big to upload to GitHub.
+
 ---
 
 ## Process Summary
